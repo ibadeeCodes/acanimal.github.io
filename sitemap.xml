@@ -122,11 +122,11 @@
 <url> <loc>https://www.acuriousanimal.com/blog/2017/08/12/understanding-the-nodejs-cluster-module/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.acuriousanimal.com/blog/2016/08/10/universal-applications/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.acuriousanimal.com/blog/2019/10/03/from-jekyll-to-gatsby/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.acuriousanimal.com/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.acuriousanimal.com/books</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.acuriousanimal.com/projects</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.acuriousanimal.com/books/openlayers-cookbook</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.acuriousanimal.com/books/the-book-of-openlayers3</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.acuriousanimal.com/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.acuriousanimal.com/archive/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.acuriousanimal.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
